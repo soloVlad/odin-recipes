@@ -1,0 +1,15 @@
+body {
+	background-color: bisque;
+}
+
+.recipe-name {
+	font-family: 'Georgia', serif;
+	color: purple;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.subheading {
+	color: midnightblue;
+	font-family: 'Helvetica', sans-serif;
+}
